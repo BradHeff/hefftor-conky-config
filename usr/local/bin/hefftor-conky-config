@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-./usr/lib/hefftor-conky-config/hefftor_conky_config
+/usr/lib/hefftor-conky-config/hefftor_conky_config
